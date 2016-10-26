@@ -1,0 +1,8 @@
+# Python artifacts
+*.pyc
+
+# Jupyter notebook
+.ipynb_checkpoints/
+
+# Intel MKL serial number
+MKLSERIAL.txt

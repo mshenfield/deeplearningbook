@@ -1,0 +1,5 @@
+jupyter
+theano
+Cython
+scikit-learn
+matplotlib
